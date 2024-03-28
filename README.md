@@ -24,6 +24,7 @@ Tools and technologies from React ecosystem
 
 📬 How to reach me:
 bhavanipothuraju515@gamil.com
+
 https://github.com/Bhavanipothuraju
 
 
