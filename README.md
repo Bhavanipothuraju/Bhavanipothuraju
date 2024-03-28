@@ -23,11 +23,12 @@ Tools and technologies from React ecosystem
 
 
 📬 How to reach me:
-bhavanipothuraju515@gamil.com
 
-https://github.com/Bhavanipothuraju
+•bhavanipothuraju515@gamil.com
 
-https://www.linkedin.com/in/bhavani-pothuraju-6579752b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+•https://github.com/Bhavanipothuraju
+
+ •https://www.linkedin.com/in/bhavani-pothuraju-6579752b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
